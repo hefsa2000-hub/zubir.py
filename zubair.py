@@ -16,10 +16,11 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords =  [
-"Germany’s rightward swing","Why Germany changed the world: From Empire to modern defence power","Hidden history of Germany and how it paved the way for today’s militarisation",
-"10 facts about German history you didn’t know — and their impact on 2025 politics","How Germany became powerful: A deep dive from WWI, WWII, Cold War to 2025",
-"What really happened in Germany’s transformation: Democracy, division & defence",
-"Secrets of German history: The untold link between Germany’s past and its rising defence role"
+
+"German History Facts", "Rise of Germany", "Fall of Germany", "Hidden Germany", "Germany Explained", "Hitler’s Germany",
+ "Nazi Secrets", "Germany’s Dark Past", "Secret German Empire", "Germany in 10 Minutes", "German Power Rise", "What Happened Germany", 
+"WWII Germany Story", "Untold German History", "Empire to Republic", "Hitler Rise Story", "Germany World War", "German Timeline Fast", "Secrets of Germany", 
+"Germany Changed World"
 ]
 
 
