@@ -15,13 +15,13 @@ st.title("YouTube Viral Topics Tool")
 days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30, value=5)
 
 # List of broader keywords
-keywords = [
-"Germany’s rightward swing”,"Why Germany changed the world: From Empire to modern defence power”,"Hidden history of Germany and how it paved the way for today’s militarisation”,
-"10 facts about German history you didn’t know — and their impact on 2025 politics”,"How Germany became powerful: A deep dive from WWI, WWII, Cold War to 2025”,
-"What really happened in Germany’s transformation: Democracy, division & defence”,
-"Secrets of German history: The untold link between Germany’s past and its rising defence role”
+keywords =  [
+"Germany’s rightward swing","Why Germany changed the world: From Empire to modern defence power","Hidden history of Germany and how it paved the way for today’s militarisation",
+"10 facts about German history you didn’t know — and their impact on 2025 politics","How Germany became powerful: A deep dive from WWI, WWII, Cold War to 2025",
+"What really happened in Germany’s transformation: Democracy, division & defence",
+"Secrets of German history: The untold link between Germany’s past and its rising defence role"
 ]
-]
+
 
 # Fetch Data Button
 if st.button("Fetch Data"):
